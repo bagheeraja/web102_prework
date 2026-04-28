@@ -16,11 +16,59 @@ body {
     align-items: center;
     margin-left: -10px;
     margin-right: -10px;
-    margin-top: -10px;
+    margin-top: 35px;
+}
+
+.navbar ul {
+  z-index: 1000; /* Ensures the navbar is on top of other elements */
+  list-style-type: none;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  margin-bottom: 15px;
+  background-color: lightblue;
+}
+
+.navbar ul li {
+  float: left;
+  margin: 0px;
+}
+
+.navbar ul li a {
+  display: block;
+  text-decoration: none;
+  color: black;
+  text-align: center;
+  padding: 8px 16px;
+  transition: color 0.15s ease, text-shadow 0.15s ease;
+}
+
+.navbar ul li a:hover {
+  color: white;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);    
+}
+
+#header,
+#about,
+#stats,
+#our-games {
+  scroll-margin-top: 60px;
 }
 
 .stats-container {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    align-items: stretch;
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+    transition: color 0.15s ease, box-shadow 0.15s ease;
 }
 
 .stats-card {
@@ -30,6 +78,11 @@ body {
     margin: 1%;
     width: 100%;
     text-align: center;
+}
+
+#top-games {
+    display: flex;
+    align-items: stretch;
 }
 
 #num-contributions, #total-raised, #num-games {
@@ -60,6 +113,7 @@ body {
 .game-card:hover {
     cursor: pointer;
     box-shadow: 0 0 30px lightblue;
+    transition: color 0.15s ease, box-shadow 0.15s ease;
 }
 
 #button-container {
@@ -72,4 +126,11 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+button:hover {
+    box-shadow: 0 2px 6px lightblue;
+    color: white;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+    transition: color 0.15s ease, box-shadow 0.15s ease;
 }
