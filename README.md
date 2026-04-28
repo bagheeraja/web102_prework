@@ -1,8 +1,8 @@
-# WEB102 Prework - *Sea Monster Crowdfunding site*
+# WEB102 Prework - *Sea Monster Crowdfunding website*
 
 Submitted by: **Jason Ames**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding website** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **10** hours spent in total
 
@@ -17,19 +17,21 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] A navbar was added to the top of the site for quick navigation.
-* [x] Several rollover features were added to the navbar buttons and the "show"     buttons in the Our Games section to appear more responsive.
-* [x] Container style was updated for stats containers so the rounded corners matched.
-* [x] Flex and align features were also added so that all of the container heights matched when the pages was scaled.
+* [x] A navbar at the top of the site allows for quick navigation.
+* [x] Several rollover features on the navbar buttons and the "show" buttons in the Our Games section make the site more responsive.
+* [x] Container style for stats containers are updated so the rounded corners match.
+* [x] Flex and align features were incorporated so that all of the container heights match when the pages is scaled.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
+![Sea Monster Crowdfunding Demo](assets/sea-monster-demo.gif)
+
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...  LICEcap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -41,7 +43,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2026] [Jason Ames]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
