@@ -28,10 +28,10 @@ Here's a walkthrough of implemented features:
 
 ![Sea Monster Crowdfunding Demo](assets/Sea-monster-walkthrough.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<!-- <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  LICEcap
+GIF created with ... LICEcap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -39,11 +39,18 @@ GIF created with ...  LICEcap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Learning to apply the intermediate JavaScript features was a welcome challenge. I will become more fluent using these features with additional repetition. I enjoyed the simple application of the ternary operator to alter grammatical sentence structure. The spread operator is more easily understood. I will need more time and practice with destructuring.
+
+**Intermediate JavaScript**
+○ filter
+○ reduce
+○ ternary operator (?)
+○ template strings
+○ destructuring and the spread operator
 
 ## License
 
-    Copyright [2026] [Jason Ames]
+    Copyright 2026 Jason Ames
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
