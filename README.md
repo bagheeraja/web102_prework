@@ -42,11 +42,11 @@ GIF created with ... LICEcap
 Learning to apply the intermediate JavaScript features was a welcome challenge. I will become more fluent using these features with additional repetition. I enjoyed the simple application of the ternary operator to alter grammatical sentence structure. The spread operator is more easily understood. I will need more time and practice with destructuring.
 
 **Intermediate JavaScript**
-○ filter
-○ reduce
-○ ternary operator (?)
-○ template strings
-○ destructuring and the spread operator
+* filter
+* reduce
+* ternary operator (?)
+* template strings
+* destructuring and the spread operator
 
 ## License
 
